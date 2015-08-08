@@ -15,6 +15,7 @@
 		B1812B4A1B758FCB00C7FFEA /* PracticeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1812B491B758FCB00C7FFEA /* PracticeTests.m */; };
 		B1812B551B75989C00C7FFEA /* ItemListTableController.m in Sources */ = {isa = PBXBuildFile; fileRef = B1812B541B75989C00C7FFEA /* ItemListTableController.m */; };
 		B1812B581B759A6B00C7FFEA /* SecureTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B1812B571B759A6B00C7FFEA /* SecureTextField.m */; };
+		B1812B5B1B75A1DD00C7FFEA /* PlaceHolderTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = B1812B5A1B75A1DD00C7FFEA /* PlaceHolderTextView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		B1812B541B75989C00C7FFEA /* ItemListTableController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ItemListTableController.m; sourceTree = "<group>"; };
 		B1812B561B759A6B00C7FFEA /* SecureTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecureTextField.h; sourceTree = "<group>"; };
 		B1812B571B759A6B00C7FFEA /* SecureTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecureTextField.m; sourceTree = "<group>"; };
+		B1812B591B75A1DD00C7FFEA /* PlaceHolderTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaceHolderTextView.h; sourceTree = "<group>"; };
+		B1812B5A1B75A1DD00C7FFEA /* PlaceHolderTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaceHolderTextView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +94,8 @@
 				B1812B371B758FCB00C7FFEA /* Main.storyboard */,
 				B1812B561B759A6B00C7FFEA /* SecureTextField.h */,
 				B1812B571B759A6B00C7FFEA /* SecureTextField.m */,
+				B1812B591B75A1DD00C7FFEA /* PlaceHolderTextView.h */,
+				B1812B5A1B75A1DD00C7FFEA /* PlaceHolderTextView.m */,
 				B1812B3A1B758FCB00C7FFEA /* Images.xcassets */,
 				B1812B3C1B758FCB00C7FFEA /* LaunchScreen.xib */,
 				B1812B2D1B758FCB00C7FFEA /* Supporting Files */,
@@ -226,6 +231,7 @@
 			files = (
 				B1812B581B759A6B00C7FFEA /* SecureTextField.m in Sources */,
 				B1812B331B758FCB00C7FFEA /* AppDelegate.m in Sources */,
+				B1812B5B1B75A1DD00C7FFEA /* PlaceHolderTextView.m in Sources */,
 				B1812B301B758FCB00C7FFEA /* main.m in Sources */,
 				B1812B551B75989C00C7FFEA /* ItemListTableController.m in Sources */,
 			);
